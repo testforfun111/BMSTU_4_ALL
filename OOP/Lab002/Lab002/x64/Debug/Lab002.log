@@ -1,0 +1,125 @@
+﻿  Lab002.cpp
+C:\Users\testc\My_Semester4\OOP\Lab002\Lab002\Vector.hpp(24,25): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'emptyError'
+C:\Users\testc\My_Semester4\OOP\Lab002\Lab002\Vector.hpp(24,25): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\testc\My_Semester4\OOP\Lab002\Lab002\Vector.hpp(22,1): message : while compiling class template member function 'Vector<double>::Vector(size_t)'
+C:\Users\testc\My_Semester4\OOP\Lab002\Lab002\Lab002.cpp(14,24): message : see reference to function template instantiation 'Vector<double>::Vector(size_t)' being compiled
+C:\Users\testc\My_Semester4\OOP\Lab002\Lab002\Lab002.cpp(10,39): message : see reference to class template instantiation 'Vector<double>' being compiled
+C:\Users\testc\My_Semester4\OOP\Lab002\Lab002\Vector.hpp(30,23): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'memError'
+C:\Users\testc\My_Semester4\OOP\Lab002\Lab002\Vector.hpp(30,23): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\testc\My_Semester4\OOP\Lab002\Lab002\Vector.hpp(608,25): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'indexError'
+C:\Users\testc\My_Semester4\OOP\Lab002\Lab002\Vector.hpp(608,25): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\testc\My_Semester4\OOP\Lab002\Lab002\Vector.hpp(606,1): message : while compiling class template member function 'Type &Vector<Type>::get_elem_Vector(size_t)'
+          with
+          [
+              Type=double
+          ]
+C:\Users\testc\My_Semester4\OOP\Lab002\Lab002\Lab002.cpp(35,92): message : see reference to function template instantiation 'Type &Vector<Type>::get_elem_Vector(size_t)' being compiled
+          with
+          [
+              Type=double
+          ]
+C:\Users\testc\My_Semester4\OOP\Lab002\Lab002\Vector.hpp(674,25): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'emptyError'
+C:\Users\testc\My_Semester4\OOP\Lab002\Lab002\Vector.hpp(674,25): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\testc\My_Semester4\OOP\Lab002\Lab002\Vector.hpp(672,1): message : while compiling class template member function 'Type Vector<Type>::len(void) const'
+          with
+          [
+              Type=double
+          ]
+C:\Users\testc\My_Semester4\OOP\Lab002\Lab002\Lab002.cpp(28,86): message : see reference to function template instantiation 'Type Vector<Type>::len(void) const' being compiled
+          with
+          [
+              Type=double
+          ]
+C:\Users\testc\My_Semester4\OOP\Lab002\Lab002\Vector.hpp(621,25): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'indexError'
+C:\Users\testc\My_Semester4\OOP\Lab002\Lab002\Vector.hpp(621,25): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\testc\My_Semester4\OOP\Lab002\Lab002\Vector.hpp(619,1): message : while compiling class template member function 'const Type &Vector<Type>::get_elem_Vector(size_t) const'
+          with
+          [
+              Type=int
+          ]
+C:\Users\testc\My_Semester4\OOP\Lab002\Lab002\Lab002.cpp(36,98): message : see reference to function template instantiation 'const Type &Vector<Type>::get_elem_Vector(size_t) const' being compiled
+          with
+          [
+              Type=int
+          ]
+C:\Users\testc\My_Semester4\OOP\Lab002\Lab002\Lab002.cpp(11,39): message : see reference to class template instantiation 'Vector<int>' being compiled
+C:\Users\testc\My_Semester4\OOP\Lab002\Lab002\Vector.hpp(276,25): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'emptyError'
+C:\Users\testc\My_Semester4\OOP\Lab002\Lab002\Vector.hpp(276,25): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\testc\My_Semester4\OOP\Lab002\Lab002\Lab002.cpp(40,99): message : see reference to function template instantiation 'Vector<double> Vector<double>::operator +<double>(const Vector<double> &) const' being compiled
+C:\Users\testc\My_Semester4\OOP\Lab002\Lab002\Lab002.cpp(40,99): message : see reference to function template instantiation 'Vector<double> Vector<double>::operator +<double>(const Vector<double> &) const' being compiled
+C:\Users\testc\My_Semester4\OOP\Lab002\Lab002\Vector.hpp(290,25): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'emptyError'
+C:\Users\testc\My_Semester4\OOP\Lab002\Lab002\Vector.hpp(290,25): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\testc\My_Semester4\OOP\Lab002\Lab002\Lab002.cpp(42,103): message : see reference to function template instantiation 'Vector<double> &Vector<double>::operator +=<double>(const Vector<double> &)' being compiled
+C:\Users\testc\My_Semester4\OOP\Lab002\Lab002\Lab002.cpp(42,105): message : see reference to function template instantiation 'Vector<double> &Vector<double>::operator +=<double>(const Vector<double> &)' being compiled
+C:\Users\testc\My_Semester4\OOP\Lab002\Lab002\Vector.hpp(316,25): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'emptyError'
+C:\Users\testc\My_Semester4\OOP\Lab002\Lab002\Vector.hpp(316,25): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\testc\My_Semester4\OOP\Lab002\Lab002\Lab002.cpp(47,99): message : see reference to function template instantiation 'Vector<double> Vector<double>::operator -<double>(const Vector<double> &) const' being compiled
+C:\Users\testc\My_Semester4\OOP\Lab002\Lab002\Lab002.cpp(47,99): message : see reference to function template instantiation 'Vector<double> Vector<double>::operator -<double>(const Vector<double> &) const' being compiled
+C:\Users\testc\My_Semester4\OOP\Lab002\Lab002\Vector.hpp(330,25): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'emptyError'
+C:\Users\testc\My_Semester4\OOP\Lab002\Lab002\Vector.hpp(330,25): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\testc\My_Semester4\OOP\Lab002\Lab002\Lab002.cpp(49,103): message : see reference to function template instantiation 'Vector<double> &Vector<double>::operator -=<double>(const Vector<double> &)' being compiled
+C:\Users\testc\My_Semester4\OOP\Lab002\Lab002\Lab002.cpp(49,105): message : see reference to function template instantiation 'Vector<double> &Vector<double>::operator -=<double>(const Vector<double> &)' being compiled
+C:\Users\testc\My_Semester4\OOP\Lab002\Lab002\Vector.hpp(441,25): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'emptyError'
+C:\Users\testc\My_Semester4\OOP\Lab002\Lab002\Vector.hpp(441,25): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\testc\My_Semester4\OOP\Lab002\Lab002\Lab002.cpp(54,100): message : see reference to function template instantiation 'Type Vector<Type>::operator *<double>(const Vector<Type> &) const' being compiled
+          with
+          [
+              Type=double
+          ]
+C:\Users\testc\My_Semester4\OOP\Lab002\Lab002\Lab002.cpp(54,100): message : see reference to function template instantiation 'Type Vector<Type>::operator *<double>(const Vector<Type> &) const' being compiled
+          with
+          [
+              Type=double
+          ]
+C:\Users\testc\My_Semester4\OOP\Lab002\Lab002\Vector.hpp(399,25): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'emptyError'
+C:\Users\testc\My_Semester4\OOP\Lab002\Lab002\Vector.hpp(399,25): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\testc\My_Semester4\OOP\Lab002\Lab002\Lab002.cpp(62,105): message : see reference to function template instantiation 'Vector<double> Vector<double>::operator *<int>(const Type1 &) const' being compiled
+          with
+          [
+              Type1=int
+          ]
+C:\Users\testc\My_Semester4\OOP\Lab002\Lab002\Lab002.cpp(62,105): message : see reference to function template instantiation 'Vector<double> Vector<double>::operator *<int>(const Type1 &) const' being compiled
+          with
+          [
+              Type1=int
+          ]
+C:\Users\testc\My_Semester4\OOP\Lab002\Lab002\Vector.hpp(413,25): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'emptyError'
+C:\Users\testc\My_Semester4\OOP\Lab002\Lab002\Vector.hpp(413,25): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\testc\My_Semester4\OOP\Lab002\Lab002\Lab002.cpp(64,109): message : see reference to function template instantiation 'Vector<double> &Vector<double>::operator *=<int>(const Type1 &)' being compiled
+          with
+          [
+              Type1=int
+          ]
+C:\Users\testc\My_Semester4\OOP\Lab002\Lab002\Lab002.cpp(64,111): message : see reference to function template instantiation 'Vector<double> &Vector<double>::operator *=<int>(const Type1 &)' being compiled
+          with
+          [
+              Type1=int
+          ]
+C:\Users\testc\My_Semester4\OOP\Lab002\Lab002\Vector.hpp(356,25): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'emptyError'
+C:\Users\testc\My_Semester4\OOP\Lab002\Lab002\Vector.hpp(356,25): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\testc\My_Semester4\OOP\Lab002\Lab002\Lab002.cpp(69,99): message : see reference to function template instantiation 'Vector<double> Vector<double>::operator &<double>(const Vector<double> &)' being compiled
+C:\Users\testc\My_Semester4\OOP\Lab002\Lab002\Lab002.cpp(69,101): message : see reference to function template instantiation 'Vector<double> Vector<double>::operator &<double>(const Vector<double> &)' being compiled
+C:\Users\testc\My_Semester4\OOP\Lab002\Lab002\Vector.hpp(498,28): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'zero_divError'
+C:\Users\testc\My_Semester4\OOP\Lab002\Lab002\Vector.hpp(498,28): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\testc\My_Semester4\OOP\Lab002\Lab002\Lab002.cpp(77,95): message : see reference to function template instantiation 'Vector<double> Vector<double>::operator /<int>(const Type1 &) const' being compiled
+          with
+          [
+              Type1=int
+          ]
+C:\Users\testc\My_Semester4\OOP\Lab002\Lab002\Lab002.cpp(77,95): message : see reference to function template instantiation 'Vector<double> Vector<double>::operator /<int>(const Type1 &) const' being compiled
+          with
+          [
+              Type1=int
+          ]
+C:\Users\testc\My_Semester4\OOP\Lab002\Lab002\Vector.hpp(512,28): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'zero_divError'
+C:\Users\testc\My_Semester4\OOP\Lab002\Lab002\Vector.hpp(512,28): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\testc\My_Semester4\OOP\Lab002\Lab002\Lab002.cpp(79,99): message : see reference to function template instantiation 'Vector<double> &Vector<double>::operator /=<int>(const Type1 &)' being compiled
+          with
+          [
+              Type1=int
+          ]
+C:\Users\testc\My_Semester4\OOP\Lab002\Lab002\Lab002.cpp(79,101): message : see reference to function template instantiation 'Vector<double> &Vector<double>::operator /=<int>(const Type1 &)' being compiled
+          with
+          [
+              Type1=int
+          ]

@@ -1,0 +1,65 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\testc\My_Semester4\KG\Lab5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(82,9): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\testc\My_Semester4\KG\Lab5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(84,13): error C2065: 'movups': undeclared identifier
+C:\Users\testc\My_Semester4\KG\Lab5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(84,20): error C2146: syntax error: missing ';' before identifier 'xmm0'
+C:\Users\testc\My_Semester4\KG\Lab5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(84,20): error C2065: 'xmm0': undeclared identifier
+C:\Users\testc\My_Semester4\KG\Lab5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(85,13): error C2146: syntax error: missing ';' before identifier 'movups'
+C:\Users\testc\My_Semester4\KG\Lab5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(85,13): error C2065: 'movups': undeclared identifier
+C:\Users\testc\My_Semester4\KG\Lab5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(85,20): error C2146: syntax error: missing ';' before identifier 'xmm1'
+C:\Users\testc\My_Semester4\KG\Lab5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(85,20): error C2065: 'xmm1': undeclared identifier
+C:\Users\testc\My_Semester4\KG\Lab5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(87,13): error C2146: syntax error: missing ';' before identifier 'mulps'
+C:\Users\testc\My_Semester4\KG\Lab5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(87,13): error C2065: 'mulps': undeclared identifier
+C:\Users\testc\My_Semester4\KG\Lab5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(87,19): error C2146: syntax error: missing ';' before identifier 'xmm0'
+C:\Users\testc\My_Semester4\KG\Lab5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(87,19): error C2065: 'xmm0': undeclared identifier
+C:\Users\testc\My_Semester4\KG\Lab5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(87,25): error C2065: 'xmm1': undeclared identifier
+C:\Users\testc\My_Semester4\KG\Lab5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(89,13): error C2146: syntax error: missing ';' before identifier 'movhlps'
+C:\Users\testc\My_Semester4\KG\Lab5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(89,13): error C2065: 'movhlps': undeclared identifier
+C:\Users\testc\My_Semester4\KG\Lab5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(89,21): error C2146: syntax error: missing ';' before identifier 'xmm1'
+C:\Users\testc\My_Semester4\KG\Lab5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(89,21): error C2065: 'xmm1': undeclared identifier
+C:\Users\testc\My_Semester4\KG\Lab5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(89,27): error C2065: 'xmm0': undeclared identifier
+C:\Users\testc\My_Semester4\KG\Lab5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(90,13): error C2146: syntax error: missing ';' before identifier 'addps'
+C:\Users\testc\My_Semester4\KG\Lab5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(90,13): error C2065: 'addps': undeclared identifier
+C:\Users\testc\My_Semester4\KG\Lab5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(90,19): error C2146: syntax error: missing ';' before identifier 'xmm0'
+C:\Users\testc\My_Semester4\KG\Lab5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(90,19): error C2065: 'xmm0': undeclared identifier
+C:\Users\testc\My_Semester4\KG\Lab5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(90,25): error C2065: 'xmm1': undeclared identifier
+C:\Users\testc\My_Semester4\KG\Lab5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(91,13): error C2146: syntax error: missing ';' before identifier 'movups'
+C:\Users\testc\My_Semester4\KG\Lab5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(91,13): error C2065: 'movups': undeclared identifier
+C:\Users\testc\My_Semester4\KG\Lab5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(91,20): error C2146: syntax error: missing ';' before identifier 'xmm1'
+C:\Users\testc\My_Semester4\KG\Lab5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(91,20): error C2065: 'xmm1': undeclared identifier
+C:\Users\testc\My_Semester4\KG\Lab5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(91,26): error C2065: 'xmm0': undeclared identifier
+C:\Users\testc\My_Semester4\KG\Lab5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(92,13): error C2146: syntax error: missing ';' before identifier 'shufps'
+C:\Users\testc\My_Semester4\KG\Lab5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(92,13): error C2065: 'shufps': undeclared identifier
+C:\Users\testc\My_Semester4\KG\Lab5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(92,20): error C2146: syntax error: missing ';' before identifier 'xmm0'
+C:\Users\testc\My_Semester4\KG\Lab5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(92,20): error C2065: 'xmm0': undeclared identifier
+C:\Users\testc\My_Semester4\KG\Lab5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(92,26): error C2065: 'xmm0': undeclared identifier
+C:\Users\testc\My_Semester4\KG\Lab5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(93,13): error C2146: syntax error: missing ';' before identifier 'addps'
+C:\Users\testc\My_Semester4\KG\Lab5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(93,13): error C2065: 'addps': undeclared identifier
+C:\Users\testc\My_Semester4\KG\Lab5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(93,19): error C2146: syntax error: missing ';' before identifier 'xmm0'
+C:\Users\testc\My_Semester4\KG\Lab5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(93,19): error C2065: 'xmm0': undeclared identifier
+C:\Users\testc\My_Semester4\KG\Lab5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(93,25): error C2065: 'xmm1': undeclared identifier
+C:\Users\testc\My_Semester4\KG\Lab5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(94,13): error C2146: syntax error: missing ';' before identifier 'movss'
+C:\Users\testc\My_Semester4\KG\Lab5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(94,13): error C2065: 'movss': undeclared identifier
+C:\Users\testc\My_Semester4\KG\Lab5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(94,19): error C2146: syntax error: missing ';' before identifier 'result'
+C:\Users\testc\My_Semester4\KG\Lab5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(94,27): error C2065: 'xmm0': undeclared identifier
+C:\Users\testc\My_Semester4\KG\Lab5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(95,9): error C2143: syntax error: missing ';' before '}'
+C:\Users\testc\My_Semester4\KG\Lab5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(112,9): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\testc\My_Semester4\KG\Lab5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(114,13): error C2065: 'vmovups': undeclared identifier
+C:\Users\testc\My_Semester4\KG\Lab5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(114,21): error C2146: syntax error: missing ';' before identifier 'xmm0'
+C:\Users\testc\My_Semester4\KG\Lab5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(114,21): error C2065: 'xmm0': undeclared identifier
+C:\Users\testc\My_Semester4\KG\Lab5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(115,13): error C2146: syntax error: missing ';' before identifier 'vmovups'
+C:\Users\testc\My_Semester4\KG\Lab5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(115,13): error C2065: 'vmovups': undeclared identifier
+C:\Users\testc\My_Semester4\KG\Lab5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(115,21): error C2146: syntax error: missing ';' before identifier 'xmm1'
+C:\Users\testc\My_Semester4\KG\Lab5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(115,21): error C2065: 'xmm1': undeclared identifier
+C:\Users\testc\My_Semester4\KG\Lab5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(116,13): error C2146: syntax error: missing ';' before identifier 'vaddps'
+C:\Users\testc\My_Semester4\KG\Lab5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(116,13): error C2065: 'vaddps': undeclared identifier
+C:\Users\testc\My_Semester4\KG\Lab5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(116,20): error C2146: syntax error: missing ';' before identifier 'xmm2'
+C:\Users\testc\My_Semester4\KG\Lab5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(116,20): error C2065: 'xmm2': undeclared identifier
+C:\Users\testc\My_Semester4\KG\Lab5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(116,26): error C2065: 'xmm1': undeclared identifier
+C:\Users\testc\My_Semester4\KG\Lab5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(116,32): error C2065: 'xmm0': undeclared identifier
+C:\Users\testc\My_Semester4\KG\Lab5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(117,13): error C2146: syntax error: missing ';' before identifier 'vmovups'
+C:\Users\testc\My_Semester4\KG\Lab5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(117,13): error C2065: 'vmovups': undeclared identifier
+C:\Users\testc\My_Semester4\KG\Lab5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(117,21): error C2146: syntax error: missing ';' before identifier 'result'
+C:\Users\testc\My_Semester4\KG\Lab5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(117,29): error C2065: 'xmm2': undeclared identifier
+C:\Users\testc\My_Semester4\KG\Lab5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(118,9): error C2143: syntax error: missing ';' before '}'
+C:\Users\testc\My_Semester4\KG\Lab5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(130,44): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\testc\My_Semester4\KG\Lab5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(131,43): warning C4305: 'initializing': truncation from 'double' to 'float'

@@ -1,0 +1,10 @@
+release/main.o
+release/mainwindow.o
+release/line.o
+release/points.o
+release/model.o
+release/draw.o
+release/operations.o
+release/menu.o
+release/error.o
+release/moc_mainwindow.o
